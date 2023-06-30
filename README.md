@@ -26,7 +26,8 @@ Duration: 2023.06.12~2022.06.30
 - 일단 패스 
 
 ## Architecture
-![image](https://github.com/cs-devops-bootcamp/devops-04-Final-Team3/assets/35091494/9df3e687-ad29-4cf6-8b27-3b3034a5c5e0)
+![image](https://github.com/hansungmoon/marathon-infra/assets/98951034/14a84d1e-8964-4e84-82a2-495589671250)
+
 
 ## **Environment**  
 ### <div style="display:flex; flex-direction:row;"> OS : <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;">
